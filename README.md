@@ -1,2 +1,1 @@
-# proj30
-sus
+# projeto30Zumbi
